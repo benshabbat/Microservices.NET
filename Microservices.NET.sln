@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AB95AD2D-B67A-4A09-82D9-56148879C0F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "catalog.service", "src\catalog.service\catalog.service.csproj", "{3B7DA18E-4A9A-4504-A816-12ABF3F4DC60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B7DA18E-4A9A-4504-A816-12ABF3F4DC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B7DA18E-4A9A-4504-A816-12ABF3F4DC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B7DA18E-4A9A-4504-A816-12ABF3F4DC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B7DA18E-4A9A-4504-A816-12ABF3F4DC60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B7DA18E-4A9A-4504-A816-12ABF3F4DC60} = {AB95AD2D-B67A-4A09-82D9-56148879C0F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A9A0B6-564D-46F6-9786-843CA4F1F3AE}
+	EndGlobalSection
+EndGlobal
