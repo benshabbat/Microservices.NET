@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sr9fPAWdkdw6AssqKip/B/H/jaQ5jhjUcW6H1ppeIWk15QDV7P3ctoTZ4WeFyoz+yOpTCDexX4ecB5btKybD5g==",
+  "dgSpecHash": "yAwo8gQ57FIjR6zz3VJ+XdTMItb8MJSYc/w6EmCcoRQ1k6yjJY5jCfngA9/UvK8n+YjUxQPJFg8xFKW5L6D20Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\catalog.service.csproj",
+  "projectFilePath": "c:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\catalog.service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bensh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "C:\\Users\\bensh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

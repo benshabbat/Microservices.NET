@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\catalog.service.csproj": {}
+    "c:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\catalog.service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\catalog.service.csproj": {
+    "c:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\catalog.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\catalog.service.csproj",
+        "projectUniqueName": "c:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\catalog.service.csproj",
         "projectName": "catalog.service",
-        "projectPath": "C:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\catalog.service.csproj",
+        "projectPath": "c:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\catalog.service.csproj",
         "packagesPath": "C:\\Users\\bensh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\obj\\",
+        "outputPath": "c:\\Users\\bensh\\OneDrive\\שולחן העבודה\\Microservices.NET\\src\\catalog.service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bensh\\AppData\\Roaming\\NuGet\\NuGet.Config"
